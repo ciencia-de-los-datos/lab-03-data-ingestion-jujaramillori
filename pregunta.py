@@ -12,6 +12,7 @@ espacio entre palabra y palabra.
 import pandas as pd
 
 
+
 def ingest_data():
 
 # Leer el archivo clusters_report.txt
